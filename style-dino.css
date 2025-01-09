@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 
 header {
     background-color:darkslateblue;
@@ -12,6 +15,7 @@ main {
     width: 600px;
     padding: 30px;
     border: solid darkslateblue 5px;
+    margin: 0 auto;
 }
 
 .different-dinos {
